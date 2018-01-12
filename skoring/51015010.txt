@@ -2,4 +2,6 @@
 +5 untuk semua lagu dalam 1 controller
 +10 untuk setiap fungsi dalam controller
 +16 untuk setiap custom selector dalam custom css
++5 untuk template diluar starbootstrap
+
 -3 untuk tombol back
